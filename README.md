@@ -22,3 +22,4 @@ CLIENT_SECRET=7OOLrGhqBgWoO1XBVBXhGO8q
 
 ![screenshot](https://github.com/srkonok/Secrets/blob/4b0c47c269d89dad30dfe2c455122b0e29c85e9c/uploads/auth.png)
 ![screenshot](https://github.com/srkonok/Secrets/blob/4b0c47c269d89dad30dfe2c455122b0e29c85e9c/uploads/auth2.png)
+![screenshot](https://github.com/srkonok/Secrets/blob/4b0c47c269d89dad30dfe2c455122b0e29c85e9c/uploads/Screenshot (27).png)
